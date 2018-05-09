@@ -6,5 +6,7 @@ namespace TongTestProj
     {
         string y;
         int x;
+
+        string z;
     }
 }
