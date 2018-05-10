@@ -8,5 +8,7 @@ namespace TongTestProj
         int x;
 
         string z;
+
+        char a;
     }
 }
